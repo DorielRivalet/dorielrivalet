@@ -13,7 +13,7 @@
 ## 📝 About me
 
 - 😄 Pronouns: He/Him
-- From: 🇦🇷 Argentina
+- 🇦🇷 From: Argentina
 - 🌱 I’m currently learning the MERN stack
 - ⚡ Fun fact: I use tabs over spaces
 
