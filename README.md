@@ -45,7 +45,6 @@
 ### ✅ Testing
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 
 ### 👜 Cloud Storage
 
@@ -60,6 +59,9 @@
 ### 📑 Project Management
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
+
+### Version Control
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
@@ -81,6 +83,8 @@
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=Brave&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
+![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=flat-square&logo=Internet%20Explorer&logoColor=white)
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=flat-square&logo=Opera&logoColor=white)
 
 ### 💻 Development Platforms
 
@@ -94,15 +98,33 @@
   <img alt="010 Editor" title="010 Editor" width="64" height="64" src="https://insmac.org/uploads/posts/2018-10/1539323096_010-editor.png" />
 </p>
 
-## 👥 Other accounts
+### 👥 Developer/Forums/Collaboration
 
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
+### Other
+
+<p style="text-align: center">OBS<br>
+  <img alt="OBS" title="OBS" width="64" height="64" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg" />
+</p>
+
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
+
+<details>
+  <summary><h2>Hobbies, Interests & Favourites</h2></summary>
+  <h3>Favourites</h3>
+  Programming Language: Lua<br>
+  <h3>Hobbies & Interests</h3>
+  Fencing & Historical Swords, Nature, Drawing, Worldbuilding, Conlangs, Chess, Manga/Anime, Sudoku, Speedrunning, Retro gaming, Lockpick puzzles, Reverse engineering, Categorization and pattern recognition, Touhou Doujin Music (Eurobeat, Rock, Folk, Trance, Bossa Nova, J-Pop, Jazz, Classical, House, Nu-Disco)
+</details>
+
 ## 📈 Statistics
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
+
+
 
 <!--
 **DorielRivalet/dorielrivalet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
