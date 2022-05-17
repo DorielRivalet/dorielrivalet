@@ -66,15 +66,14 @@
 
 ### Development Platforms
 
-<p>
-  <img alt="Roblox Studio" width="64" height="64" src="https://static.wikia.nocookie.net/logopedia/images/9/97/Roblox_Studio_2017.svg/revision/latest/scale-to-width-down/200?cb=20210521002548" />
+<p style="text-align: center">Roblox Studio<br>
+  <img alt="Roblox Studio" title="Roblox Studio" width="64" height="64" src="https://static.wikia.nocookie.net/logopedia/images/9/97/Roblox_Studio_2017.svg/revision/latest/scale-to-width-down/200?cb=20210521002548" />
 </p>
-
 
 ### Hex Editors
 
-<p>
-  <img alt="010 Editor" width="64" height="64" src="https://insmac.org/uploads/posts/2018-10/1539323096_010-editor.png" />
+<p style="text-align: center">010 Editor<br>
+  <img alt="010 Editor" title="010 Editor" width="64" height="64" src="https://insmac.org/uploads/posts/2018-10/1539323096_010-editor.png" />
 </p>
 
 ### Operating Systems
