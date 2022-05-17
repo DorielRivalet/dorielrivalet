@@ -1,20 +1,6 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif" align="center" style="width: 100%" />
 </div>
-
-### Hi there 👋, I'm Doriel Rivalet!
-
-## About me
-
-- 😄 Pronouns: He/Him
-- From: 🇦🇷 Argentina
-- 🌱 I’m currently learning the MERN stack
-- ⚡ Fun fact: I use tabs over spaces
-
-## Statistics  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)  
-
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dorielrivalet&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -24,6 +10,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorielrivalet&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
+
+### Hi there 👋, I'm Doriel Rivalet!
+
+## About me
+
+- 😄 Pronouns: He/Him
+- From: 🇦🇷 Argentina
+- 🌱 I’m currently learning the MERN stack
+- ⚡ Fun fact: I use tabs over spaces
 
 ## Languages and Tools
 
@@ -91,6 +86,10 @@
 ![Playstation 2](https://img.shields.io/badge/Playstation%202-003791?style=flat-square&logo=playstation-2&logoColor=white)
 ![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=flat-square&logo=playstation-3&logoColor=white)
 ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=flat-square&logo=wii&logoColor=white)
+
+## Statistics  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)  
 
 <!--
 **DorielRivalet/dorielrivalet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
