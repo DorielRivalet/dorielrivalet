@@ -36,38 +36,38 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
-# Development Platforms
+### Development Platforms
 
 <p>
   <img alt="Roblox Studio" width="64" height="64" src="https://static.wikia.nocookie.net/logopedia/images/9/97/Roblox_Studio_2017.svg/revision/latest/scale-to-width-down/200?cb=20210521002548" />
 </p>
 
 
-# Hex Editors
+### Hex Editors
 
 <p>
   <img alt="010 Editor" width="64" height="64" src="https://insmac.org/uploads/posts/2018-10/1539323096_010-editor.png" />
 </p>
 
-# Operating Systems
+### Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=fflat-square&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=flat-square&logo=windowsxp&logoColor=white)
 
-# Browsers
+### Browsers
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=Brave&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 
-# Other accounts
+## Other accounts
 
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
 
-# Games
+## Games
 
 ![Playstation](https://img.shields.io/badge/Playstation-003791?style=flat-square&logo=playstation&logoColor=white)
 ![Playstation 2](https://img.shields.io/badge/Playstation%202-003791?style=flat-square&logo=playstation-2&logoColor=white)
