@@ -38,6 +38,7 @@
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=flat-square&logo=codepen&logoColor=black)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=flat-square&logo=Replit&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-2B579A?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF)
 
 ### Testing
