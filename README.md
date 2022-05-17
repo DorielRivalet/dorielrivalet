@@ -19,7 +19,7 @@
 
 ## 🔧 Technologies & Tools
 
-### Languages
+### ✏️ Languages
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -30,65 +30,71 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
-### Editors
+### ✒️ IDEs/Editors
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=flat-square&logo=codepen&logoColor=black)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=flat-square&logo=Replit&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-2B579A?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF)
 
-### Testing
+### 🎨 Design
+
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+
+### ✅ Testing
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 
-### Storage
+### 👜 Cloud Storage
 
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=flat-square&logo=Dropbox&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)
 ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=flat-square&logo=Mega&logoColor=white)
 
-### Databases
+### 💾 Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
-### Project Management
+### 📑 Project Management
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
-### Development Platforms
-
-<p style="text-align: center">Roblox Studio<br>
-  <img alt="Roblox Studio" title="Roblox Studio" width="64" height="64" src="https://static.wikia.nocookie.net/logopedia/images/9/97/Roblox_Studio_2017.svg/revision/latest/scale-to-width-down/200?cb=20210521002548" />
-</p>
-
-### Hex Editors
-
-<p style="text-align: center">010 Editor<br>
-  <img alt="010 Editor" title="010 Editor" width="64" height="64" src="https://insmac.org/uploads/posts/2018-10/1539323096_010-editor.png" />
-</p>
-
-### Operating Systems
+### 🖥️ Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=fflat-square&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=flat-square&logo=windowsxp&logoColor=white)
 
-### Browsers
+### 🏢 Office
+
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-2B579A?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+
+### 🌐 Browsers
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=Brave&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 
-## Other accounts
+### 💻 Development Platforms
+
+<p style="text-align: center">Roblox Studio<br>
+  <img alt="Roblox Studio" title="Roblox Studio" width="64" height="64" src="https://static.wikia.nocookie.net/logopedia/images/9/97/Roblox_Studio_2017.svg/revision/latest/scale-to-width-down/200?cb=20210521002548" />
+</p>
+
+### ⚙️ Hex Editors
+
+<p style="text-align: center">010 Editor<br>
+  <img alt="010 Editor" title="010 Editor" width="64" height="64" src="https://insmac.org/uploads/posts/2018-10/1539323096_010-editor.png" />
+</p>
+
+## 👥 Other accounts
 
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
