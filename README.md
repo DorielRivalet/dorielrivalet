@@ -8,7 +8,7 @@
 
 </td></tr></table>
 
-# 👋 Hi there, I'm Doriel Rivalet!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Doriel Rivalet!
 
 ## 📝 About me
 
@@ -52,7 +52,6 @@
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)
 ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=flat-square&logo=Mega&logoColor=white)
 
-
 ### Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
@@ -94,13 +93,6 @@
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
-
-## 🎮 Games
-
-![Playstation](https://img.shields.io/badge/Playstation-003791?style=flat-square&logo=playstation&logoColor=white)
-![Playstation 2](https://img.shields.io/badge/Playstation%202-003791?style=flat-square&logo=playstation-2&logoColor=white)
-![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=flat-square&logo=playstation-3&logoColor=white)
-![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=flat-square&logo=wii&logoColor=white)
 
 ## 📈 Statistics
 
