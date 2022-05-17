@@ -68,12 +68,12 @@
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-### Version Control
+### 🔢 Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Hosting
+### 🗺️ Hosting
 
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-%222222.svg?style=for-the-badge&logo=githubpages&logoColor=white)
 ![Imgur](https://img.shields.io/badge/Imgur-1BB76E?style=for-the-badge&logo=imgur&logoColor=white)
@@ -90,7 +90,7 @@
 
 ![Virus Total](https://img.shields.io/badge/Virus_Total-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 
-### Networks
+### 🔌 Networks
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
@@ -135,7 +135,7 @@
 ![Super User](https://img.shields.io/badge/Super_User-38A1CE.svg?style=for-the-badge&logo=superuser&logoColor=white)
 
 
-### Other
+### 🎲 Other
 
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31.svg?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
@@ -159,7 +159,7 @@
 ![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=wolfram&logoColor=white)
 
 <details>
-  <summary><h2>Hobbies, Interests & Favourites</h2></summary>
+  <summary><h2>💡 Hobbies, Interests & Favourites</h2></summary>
   <h3>Favourites</h3>
   Programming Language: Lua<br>
   <h3>Hobbies & Interests</h3>
