@@ -43,7 +43,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad++&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
 
 ### 🎨 Design
 
@@ -78,12 +78,21 @@
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-%222222.svg?style=for-the-badge&logo=githubpages&logoColor=white)
 ![Imgur](https://img.shields.io/badge/Imgur-1BB76E?style=for-the-badge&logo=imgur&logoColor=white)
 
-### 🖥️ Operating Systems
+### 🖥️ Operating Systems & Virtual Machines
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
+![Virtual Box](https://img.shields.io/badge/Virtual_Box-183A91?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+### 🔏 Security
+
+![Virus Total](https://img.shields.io/badge/Virus_Total-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+
+### Networks
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### 🏢 Office
 
@@ -123,6 +132,8 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
 ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
+![Super User](https://img.shields.io/badge/Super_User-38A1CE.svg?style=for-the-badge&logo=superuser&logoColor=white)
+
 
 ### Other
 
@@ -141,7 +152,11 @@
 ![osu!](https://img.shields.io/badge/osu!-ff66aa?style=for-the-badge&logo=osu!&logoColor=white)
 ![Pastebin](https://img.shields.io/badge/Pastebin-02456C?style=for-the-badge&logo=pastebin&logoColor=white)
 ![Powershell](https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
+![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white)
+![VLC Media Player](https://img.shields.io/badge/VLC_Media_Player-FF8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white)
+![Winamp](https://img.shields.io/badge/Winamp-F93821?style=for-the-badge&logo=winamp&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4d4d4d?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=wolfram&logoColor=white)
 
 <details>
   <summary><h2>Hobbies, Interests & Favourites</h2></summary>
