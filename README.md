@@ -1,12 +1,7 @@
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dorielrivalet&show_icons=true&theme=react&&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dorielrivalet&&theme=react&&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
+| <img src="https://github-readme-stats-dorielrivalet.vercel.app/api?username=dorielrivalet&show_icons=true&custom_title=Welcome%20to%20my%20profile!&include_all_commits=true&text_color=cdcdcd&bg_color=2d2d2d&title_color=bd1502&icon_color=bd1502&border_color=bd1502&&count_private=true"/> 	| <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorielrivalet&&theme=darcula&layout=compact"/> 	|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------	|
+| <img width="100%" src="https://github-readme-stats-dorielrivalet.vercel.app/api/top-langs?username=dorielrivalet&layout=compact&border_color=bd1502&langs_count=10&text_color=cdcdcd&bg_color=2d2d2d&title_color=bd1502">                                                                      	| <img src="">   	|
+|                                                                                                                                                                                                                                                                                                	|                                                                                                                 	|
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Doriel Rivalet!
 
@@ -169,8 +164,6 @@
 ## 📈 Statistics
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
-
-
 
 <!--
 **DorielRivalet/dorielrivalet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
