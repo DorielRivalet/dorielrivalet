@@ -2,6 +2,9 @@
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------	|
 | <img width="100%" src="https://github-readme-stats-dorielrivalet.vercel.app/api/top-langs?username=dorielrivalet&layout=compact&border_color=bd1502&langs_count=10&text_color=cdcdcd&bg_color=2d2d2d00&title_color=bd1502">                                                                      	| <img src="https://raw.githubusercontent.com/DorielRivalet/github-stats-transparent/output/generated/overview.svg">   	|
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Doriel Rivalet!
 
 ## 📝 About me
@@ -157,7 +160,7 @@
   <h3>Favourites</h3>
   Programming Language: Lua<br>
   <h3>Hobbies & Interests</h3>
-  Fencing & Historical Swords, Nature, Drawing, Worldbuilding, Videogame modding, Conlangs, Chess, Manga/Anime, Sudoku, Speedrunning, Retro gaming, Lockpick puzzles, Reverse engineering, Categorization and pattern recognition, Touhou Doujin Music (Eurobeat, Rock, Folk, Trance, Bossa Nova, J-Pop, Jazz, Classical, House, Nu-Disco)
+  Fencing & Historical Swords, Nature, Drawing, Worldbuilding, Videogame modding, Conlangs, Chess, Manga/Anime, Sudoku, Speedrunning, Retro gaming, Lockpick puzzles, Reverse engineering, Categorization and pattern recognition, Touhou Doujin Music (Eurobeat, Rock, Folk, Trance, Bossa Nova, J-Pop, Jazz, Classical, House, Nu-Disco), Buckethead
 </details>
 
 ## 📈 Statistics
