@@ -3,23 +3,6 @@
 | <img width="100%" src="https://github-readme-stats-dorielrivalet.vercel.app/api/top-langs?username=dorielrivalet&layout=compact&border_color=bd1502&langs_count=10&text_color=cdcdcd&bg_color=2d2d2d00&title_color=bd1502">                                                                      	| <img src="https://raw.githubusercontent.com/DorielRivalet/github-stats-transparent/output/generated/overview.svg"> 	|
 | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dorielrivalet&text_color=cdcdcd&bg_color=2d2d2d00&title_color=bd1502&icon_color=bd1502&border_color=bd1502">                                                                                                              	|                                                                                                                    	|
 
-<!--START_SECTION:waka-->
-
-```text
-From: 23 May 2021 - To: 23 May 2022
-
-Total Time: 7 hrs 36 mins
-
-Markdown     5 hrs 9 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀   67.29 %
-JavaScript   1 hr 11 mins    ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.46 %
-CSS          48 mins         ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.54 %
-JSON         15 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.38 %
-HTML         5 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.29 %
-XML          4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.93 %
-```
-
-<!--END_SECTION:waka-->
-
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Doriel Rivalet!
 
 ## 📝 About me
@@ -170,8 +153,10 @@ XML          4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4d4d4d?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=wolfram&logoColor=white)
 
+## 💡 Hobbies, Interests & Favourites
+
 <details>
-  <summary><h2>💡 Hobbies, Interests & Favourites</h2></summary>
+  <summary>Click here to expand</summary>
   <h3>Favourites</h3>
   Programming Language: Lua<br>
   <h3>Hobbies & Interests</h3>
@@ -181,6 +166,24 @@ XML          4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 📈 Statistics
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
+
+<!--START_SECTION:waka-->
+
+```text
+From: 23 May 2021 - To: 23 May 2022
+
+Total Time: 7 hrs 36 mins
+
+Markdown     5 hrs 9 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀   67.29 %
+JavaScript   1 hr 11 mins    ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.46 %
+CSS          48 mins         ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.54 %
+JSON         15 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.38 %
+HTML         5 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.29 %
+XML          4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.93 %
+```
+
+<!--END_SECTION:waka-->
+
 
 <!--
 **DorielRivalet/dorielrivalet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
