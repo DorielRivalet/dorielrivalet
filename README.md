@@ -170,7 +170,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 May 2021 - To: 24 May 2022
+From: 25 May 2021 - To: 25 May 2022
 
 Total Time: 7 hrs 36 mins
 
