@@ -181,13 +181,14 @@ JSON         15 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+```text
                                                                                 ## #
                          ^                             ^                       # #                      
       ^    ^            /|\            ^    ^         /|\ ^                   ##         ^              
   ^  /|\  /|\  ^        /|\  ^     ^  /|\  /|\  ^     /|\/|\    ^          __||         /|\ ^    ^   ^ 
  /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\
  .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
- 
+ ```
 <!--
 **DorielRivalet/dorielrivalet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
