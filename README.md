@@ -1,13 +1,4 @@
-| <img src="https://github-readme-stats-dorielrivalet.vercel.app/api?username=dorielrivalet&show_icons=true&custom_title=Welcome%20to%20my%20profile!&include_all_commits=true&text_color=cdcdcd&bg_color=2d2d2d00&title_color=bd1502&icon_color=bd1502&border_color=bd1502&&count_private=true"/> 	| <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorielrivalet&&theme=darcula&layout=compact"/>    	|
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------	|
-| <img width="100%" src="https://github-readme-stats-dorielrivalet.vercel.app/api/top-langs?username=dorielrivalet&layout=compact&border_color=bd1502&langs_count=10&text_color=cdcdcd&bg_color=2d2d2d00&title_color=bd1502">                                                                      	| <img src="https://raw.githubusercontent.com/DorielRivalet/github-stats-transparent/output/generated/overview.svg"> 	|
-| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dorielrivalet&text_color=cdcdcd&bg_color=2d2d2d00&title_color=bd1502&icon_color=bd1502&border_color=bd1502">                                                                                                              	|                                                                                                                    	|
-
-[![Doriel Rivalet's github activity graph](https://doriel-rivalet-activity-graph.herokuapp.com/graph?username=DorielRivalet&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi there, I'm Doriel Rivalet!
+# <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi there, I'm Doriel Rivalet!</h1>
 
 ## 📝 About me
 
@@ -55,12 +46,6 @@
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### 👜 Cloud Storage
-
-![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
-
 ### 💾 Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -73,11 +58,6 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### 🗺️ Hosting
-
-![GitHub Pages](https://img.shields.io/badge/github%20pages-%222222.svg?style=for-the-badge&logo=githubpages&logoColor=white)
-![Imgur](https://img.shields.io/badge/Imgur-1BB76E?style=for-the-badge&logo=imgur&logoColor=white)
 
 ### 🖥️ Operating Systems & Virtual Machines
 
@@ -162,6 +142,13 @@
 </details>
 
 ## 📈 Statistics
+
+| <img src="https://github-readme-stats-dorielrivalet.vercel.app/api?username=dorielrivalet&show_icons=true&custom_title=Welcome%20to%20my%20profile!&include_all_commits=true&text_color=cdcdcd&bg_color=2d2d2d00&title_color=bd1502&icon_color=bd1502&border_color=bd1502&&count_private=true"/> 	| <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorielrivalet&&theme=darcula&layout=compact"/>    	|
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------	|
+| <img width="100%" src="https://github-readme-stats-dorielrivalet.vercel.app/api/top-langs?username=dorielrivalet&layout=compact&border_color=bd1502&langs_count=10&text_color=cdcdcd&bg_color=2d2d2d00&title_color=bd1502">                                                                      	| <img src="https://raw.githubusercontent.com/DorielRivalet/github-stats-transparent/output/generated/overview.svg"> 	|
+| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dorielrivalet&text_color=cdcdcd&bg_color=2d2d2d00&title_color=bd1502&icon_color=bd1502&border_color=bd1502">                                                                                                              	|                                                                                                                    	|
+
+[![Doriel Rivalet's github activity graph](https://doriel-rivalet-activity-graph.herokuapp.com/graph?username=DorielRivalet&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
 
