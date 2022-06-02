@@ -3,6 +3,10 @@
 | <img width="100%" src="https://github-readme-stats-dorielrivalet.vercel.app/api/top-langs?username=dorielrivalet&layout=compact&border_color=bd1502&langs_count=10&text_color=cdcdcd&bg_color=2d2d2d00&title_color=bd1502">                                                                      	| <img src="https://raw.githubusercontent.com/DorielRivalet/github-stats-transparent/output/generated/overview.svg"> 	|
 | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dorielrivalet&text_color=cdcdcd&bg_color=2d2d2d00&title_color=bd1502&icon_color=bd1502&border_color=bd1502">                                                                                                              	|                                                                                                                    	|
 
+[![Doriel Rivalet's github activity graph](https://doriel-rivalet-activity-graph.herokuapp.com/graph?username=DorielRivalet&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi there, I'm Doriel Rivalet!
 
 ## 📝 About me
