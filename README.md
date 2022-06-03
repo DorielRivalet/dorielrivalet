@@ -172,6 +172,11 @@ JSON         15 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+<details align="center">
+  <summary align="center">Click here to expand</summary>
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="50%">
+</details>
+
 ```text
                                                                                 ## #
                          ^                             ^                       # #                      
