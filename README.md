@@ -32,6 +32,8 @@
 ![PyPI](https://img.shields.io/badge/pypi-%3775A9.svg?style=for-the-badge&logo=pypi&logoColor=white)
 ![Rubocop](https://img.shields.io/badge/rubocop-000000.svg?style=for-the-badge&logo=rubocop&logoColor=white)
 ![RubyGems](https://img.shields.io/badge/rubygems-E9573F.svg?style=for-the-badge&logo=rubygems&logoColor=white)
+![LuaRocks](https://img.shields.io/badge/luarocks-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Luacheck](https://img.shields.io/badge/luacheck-%232C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white)
 
 ### ✒️ IDEs/Editors
 
