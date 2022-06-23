@@ -30,10 +30,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![PyPI](https://img.shields.io/badge/pypi-%3775A9.svg?style=for-the-badge&logo=pypi&logoColor=white)
-![Rubocop](https://img.shields.io/badge/rubocop-000000.svg?style=for-the-badge&logo=rubocop&logoColor=white)
 ![RubyGems](https://img.shields.io/badge/rubygems-E9573F.svg?style=for-the-badge&logo=rubygems&logoColor=white)
 ![LuaRocks](https://img.shields.io/badge/luarocks-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Luacheck](https://img.shields.io/badge/luacheck-%232C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white)
 
 ### ✒️ IDEs/Editors
 
@@ -42,6 +40,12 @@
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
+
+### 🖊️ Linters
+
+![Luacheck](https://img.shields.io/badge/luacheck-%232C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white)
+![Rubocop](https://img.shields.io/badge/rubocop-000000.svg?style=for-the-badge&logo=rubocop&logoColor=white)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
 ### 🔬 Continuous Integration (CI)
 
@@ -52,9 +56,10 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🧪 Testing
+### 🧪 Unit Testing
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Busted](https://img.shields.io/badge/busted-%232C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white)
 
 ### 💾 Databases
 
@@ -68,7 +73,6 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
 ### 🎈 Hosting/SaaS
 
