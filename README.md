@@ -161,7 +161,7 @@
   <h3>Favourites</h3>
   Programming Language: Lua<br>
   <h3>Hobbies & Interests</h3>
-  Fencing & Historical Swords, Nature, Drawing, Worldbuilding, Videogame modding, Conlangs, Chess, Manga/Anime, Sudoku, Speedrunning, Retro gaming, Lockpick puzzles, Reverse engineering, Categorization and pattern recognition, Touhou Doujin Music (Eurobeat, Rock, Folk, Trance, Bossa Nova, J-Pop, Jazz, Classical, House, Nu-Disco), Buckethead
+  Fencing & Historical Swords, Nature, Drawing, Worldbuilding, Videogame modding, Conlangs, Chess, Manga/Anime, Sudoku, Speedrunning, Retro gaming, Lockpick puzzles, Reverse engineering, Categorization and pattern recognition, Touhou Doujin Music (Eurobeat, Rock, Folk, Trance, Bossa Nova, J-Pop, Jazz, Classical, House, Nu-Disco, Electro Swing), Buckethead
 </details>
 
 ## 📈 Statistics
