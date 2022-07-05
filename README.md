@@ -178,7 +178,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 July 2021 - To: 03 July 2022
+From: 04 July 2021 - To: 04 July 2022
 
 Total Time: 103 hrs 2 mins
 
