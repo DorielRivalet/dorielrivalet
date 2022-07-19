@@ -34,7 +34,7 @@
 ![LuaRocks](https://img.shields.io/badge/luarocks-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 ### ✒️ IDEs/Editors
-
+![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
@@ -108,7 +108,7 @@
 
 ### 💻 Development Platforms
 
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-1B24BFF?style=for-the-badge&logo=roblox&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-1B44cc?style=for-the-badge&logo=roblox&logoColor=white)
 
 ### ⚙️ Hex Editors
 
