@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/DorielRivalet/.github/issues"
   },
-  "homepage": "",
+  "homepage": "https://dorielrivalet.github.io/quartz",
   "dependencies": {
     "node-fetch": "^2.6.1",
     "puppeteer": "^5.1.0"
