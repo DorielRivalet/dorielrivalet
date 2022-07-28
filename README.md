@@ -42,10 +42,12 @@
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
 
-### 🖊️ Linters
+### 🖊️ Linters/Formatters
 
 ![Luacheck](https://img.shields.io/badge/luacheck-%232C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white)
 ![Rubocop](https://img.shields.io/badge/rubocop-000000.svg?style=for-the-badge&logo=rubocop&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
 ### 🔬 Continuous Integration (CI)
@@ -131,12 +133,13 @@
 ![Super User](https://img.shields.io/badge/Super_User-38A1CE.svg?style=for-the-badge&logo=superuser&logoColor=white)
 
 ### 🎲 Other
-
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4d4d4d?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![Powershell](https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31.svg?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
@@ -148,11 +151,9 @@
 ![Open AI](https://img.shields.io/badge/Open_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![osu!](https://img.shields.io/badge/osu!-ff66aa?style=for-the-badge&logo=osu!&logoColor=white)
 ![Pastebin](https://img.shields.io/badge/Pastebin-02456C?style=for-the-badge&logo=pastebin&logoColor=white)
-![Powershell](https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white)
 ![VLC Media Player](https://img.shields.io/badge/VLC_Media_Player-FF8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white)
 ![Winamp](https://img.shields.io/badge/Winamp-F93821?style=for-the-badge&logo=winamp&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4d4d4d?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=wolfram&logoColor=white)
 
 ## 💡 Hobbies, Interests & Favourites
