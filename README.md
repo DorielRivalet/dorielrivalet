@@ -180,7 +180,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 September 2021 - To: 04 September 2022
+From: 06 September 2021 - To: 06 September 2022
 
 Total Time: 132 hrs 21 mins
 
