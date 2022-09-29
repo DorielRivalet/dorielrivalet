@@ -18,10 +18,11 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![AutoHotKey](https://img.shields.io/badge/AutoHotKey-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### 📚 Frameworks, Platforms & Libraries
@@ -32,11 +33,14 @@
 ![PyPI](https://img.shields.io/badge/pypi-%3775A9.svg?style=for-the-badge&logo=pypi&logoColor=white)
 ![RubyGems](https://img.shields.io/badge/rubygems-E9573F.svg?style=for-the-badge&logo=rubygems&logoColor=white)
 ![LuaRocks](https://img.shields.io/badge/luarocks-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-1B44cc?style=for-the-badge&logo=roblox&logoColor=white)
+![.NET](https://img.shields.io/badge/.net_framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### ✒️ IDEs/Editors
 ![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
@@ -53,6 +57,7 @@
 ### 🔬 Continuous Integration (CI)
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circleci-343434.svg?style=for-the-badge&logo=circleci&logoColor=white)
 
 ### 🎨 Design
 
@@ -107,10 +112,6 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Libre Office](https://img.shields.io/badge/Libre_Office-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
-
-### 💻 Development Platforms
-
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-1B44cc?style=for-the-badge&logo=roblox&logoColor=white)
 
 ### ⚙️ Hex Editors
 
