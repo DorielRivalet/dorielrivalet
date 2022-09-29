@@ -20,6 +20,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![XAML](https://img.shields.io/badge/xaml-0C54C2?style=for-the-badge&logo=xaml&logoColor=ffdd54)
 ![AutoHotKey](https://img.shields.io/badge/AutoHotKey-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=oracle&logoColor=white)
