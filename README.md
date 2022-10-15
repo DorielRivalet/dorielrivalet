@@ -182,12 +182,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 October 2021 - To: 13 October 2022
+From: 14 October 2021 - To: 14 October 2022
 
-Total Time: 299 hrs 25 mins
+Total Time: 306 hrs 7 mins
 
-C#                 123 hrs 5 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.67 %
-Other              66 hrs 7 mins   ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.09 %
+C#                 129 hrs 34 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.67 %
+Other              67 hrs 37 mins  ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.09 %
 ```
 
 <!--END_SECTION:waka-->
