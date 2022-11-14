@@ -46,13 +46,17 @@
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
+![Apache NetBeans IDE](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
-### 🖊️ Linters/Formatters
+### 🖊️ Linters/Formatters/Analyzers
 
 ![Luacheck](https://img.shields.io/badge/luacheck-%232C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white)
 ![Rubocop](https://img.shields.io/badge/rubocop-000000.svg?style=for-the-badge&logo=rubocop&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![SonarLint](https://img.shields.io/badge/sonarlint-CB2029.svg?style=for-the-badge&logo=sonarlint&logoColor=white)
+![SonarQube](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/sonarcloud-F3702A.svg?style=for-the-badge&logo=sonarcloud&logoColor=white)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
 ### 🔬 Continuous Integration (CI)
