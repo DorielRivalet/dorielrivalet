@@ -186,12 +186,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 November 2021 - To: 19 November 2022
+From: 20 November 2021 - To: 20 November 2022
 
-Total Time: 419 hrs 20 mins
+Total Time: 422 hrs 44 mins
 
-C#                 206 hrs 38 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.40 %
-Other              92 hrs 9 mins   ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.02 %
+C#                 210 hrs 1 min   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.75 %
+Other              92 hrs 42 mins  ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.99 %
 ```
 
 <!--END_SECTION:waka-->
