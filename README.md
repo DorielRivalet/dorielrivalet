@@ -13,7 +13,6 @@
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![JSON](https://img.shields.io/badge/json-000000.svg?style=for-the-badge&logo=JSON&logoColor=%23F7DF1E)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -139,6 +138,7 @@
 ![Super User](https://img.shields.io/badge/Super_User-38A1CE.svg?style=for-the-badge&logo=superuser&logoColor=white)
 
 ### 🎲 Other
+![JSON](https://img.shields.io/badge/json-000000.svg?style=for-the-badge&logo=JSON&logoColor=%23F7DF1E)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4d4d4d?style=for-the-badge&logo=windowsterminal&logoColor=white)
