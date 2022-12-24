@@ -188,12 +188,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2021 - To: 22 December 2022
+From: 23 December 2021 - To: 23 December 2022
 
-Total Time: 464 hrs 6 mins
+Total Time: 468 hrs 8 mins
 
-C#                 242 hrs 14 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.80 %
-Other              101 hrs 48 mins ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.99 %
+C#                 246 hrs 16 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.21 %
+Other              101 hrs 48 mins ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.86 %
 ```
 
 <!--END_SECTION:waka-->
