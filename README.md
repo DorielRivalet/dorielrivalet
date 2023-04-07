@@ -188,12 +188,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2022 - To: 05 April 2023
+From: 06 April 2022 - To: 06 April 2023
 
-Total Time: 677 hrs 50 mins
+Total Time: 678 hrs 52 mins
 
-C#                 395 hrs 28 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.80 %
-Other              149 hrs 31 mins ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.07 %
+C#                 396 hrs         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.80 %
+Other              149 hrs 31 mins ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.05 %
 ```
 
 <!--END_SECTION:waka-->
