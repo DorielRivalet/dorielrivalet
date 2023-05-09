@@ -31,8 +31,6 @@
 
 [![Doriel Rivalet's github activity graph](https://github-readme-activity-graph-dorielrivalet.vercel.app/graph?username=DorielRivalet&bg_color=1e1e2e&color=cdd6f4&title_color=f9e2af&line=fab387&point=f9e2af)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
-
 <!--START_SECTION:waka-->
 
 ```text
@@ -57,6 +55,8 @@ Binary             35 hrs 39 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img align="center" src="/github-metrics.svg" alt="Metrics" width="50%">
 </details>
 
+ ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
+
 ```text
                                                                                 ## #
                          ^                             ^                       # #                      
@@ -65,4 +65,3 @@ Binary             35 hrs 39 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
  /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\
  .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
  ```
- 
