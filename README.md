@@ -1,168 +1,31 @@
 # <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi there, I'm Doriel Rivalet!</h1>
 
-## 📝 About me
+![Programming Languages](https://github-readme-tech-stack.vercel.app/api/cards?title=Programming%20Languages&fontFamily=Source%20Code%20Pro&lineCount=3&theme=catppuccin_mocha&titleColor=%23f5e0dc&line1=lua,lua,2C2D72;ruby,ruby,CC342D;javascript,javascript,F7DF1E;csharp,csharp,239120;&line2=python,python,auto;oracle,java,F80000;cplusplus,c%2b%2b,00599C;php,php,auto;&line3=autohotkey,autohotkey,334455;)
+![IDE | Editors](https://github-readme-tech-stack.vercel.app/api/cards?title=IDE%20%7C%20Editors&fontFamily=Source%20Code%20Pro&lineCount=3&theme=catppuccin_mocha&titleColor=%2394e2d5&line1=neovim,neovim,auto;visualstudiocode,visual%20studio%20code,007ACC;visualstudio,visual%20studio,5C2D91;&line2=vim,vim,019733;eclipseide,eclipse,2C2255;notepadplusplus,notepad%2b%2b,90E59A;codepen,codepen,cdd6f4;&line3=replit,replit,F26207;apachenetbeanside,apache%20netbeans%20ide,1B6AC6;)
 
-- 😄 Pronouns: He/Him
-- 🇦🇷 From: Argentina
-- 🌱 I’m currently learning the MERN stack
-- ⚡ Fun fact: I use tabs over spaces
+![Markup | Style | Data Interchange](https://github-readme-tech-stack.vercel.app/api/cards?title=Markup%20%7C%20Style%20%7C%20Data%20Interchange&fontFamily=Source%20Code%20Pro&lineCount=2&theme=catppuccin_mocha&titleColor=%23f2cdcd&line1=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SFRNTDU8L3RpdGxlPjxwYXRoIGZpbGw9IiNFMzRGMjYiIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTc3IDI0bC04LjU2NC0yLjQzOEwxLjUgMHptNy4wMzEgOS43NWwtLjIzMi0yLjcxOCAxMC4wNTkuMDAzLjIzLTIuNjIyTDUuNDEyIDQuNDFsLjY5OCA4LjAxaDkuMTI2bC0uMzI2IDMuNDI2LTIuOTEuODA0LTIuOTU1LS44MS0uMTg4LTIuMTFINi4yNDhsLjMzIDQuMTcxTDEyIDE5LjM1MWw1LjM3OS0xLjQ0My43NDQtOC4xNTdIOC41MzF6Ii8+PC9zdmc+,html,;latex,latex,008080;xaml,xaml,0C54C2;yaml,yaml,CB171E;&line2=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Q1NTMzwvdGl0bGU+PHBhdGggZmlsbD0iIzE1NzJCNiIgZD0iTTEuNSAwaDIxbC0xLjkxIDIxLjU2M0wxMS45NzcgMjRsLTguNTY1LTIuNDM4TDEuNSAwem0xNy4wOSA0LjQxM0w1LjQxIDQuNDFsLjIxMyAyLjYyMiAxMC4xMjUuMDAyLS4yNTUgMi43MTZoLTYuNjRsLjI0IDIuNTczaDYuMTgybC0uMzY2IDMuNTIzLTIuOTEuODA0LTIuOTU2LS44MS0uMTg4LTIuMTFoLTIuNjFsLjI5IDMuODU1TDEyIDE5LjI4OGw1LjM3My0xLjUzTDE4LjU5IDQuNDE0eiIvPjwvc3ZnPg==,css,;json,json,cdd6f4;markdown,markdown,cdd6f4;xml,xml,cdd6f4;)
+![Frameworks | Platforms | Libraries](https://github-readme-tech-stack.vercel.app/api/cards?title=Frameworks%20%7C%20Platforms%20%7C%20Libraries&fontFamily=Source%20Code%20Pro&lineCount=2&theme=catppuccin_mocha&titleColor=%2389dceb&line1=npm,npm,auto;nodedotjs,nodejs,auto;rubyonrails,rails,CC0000;pypi,pypi,auto;&line2=rubygems,rubygems,auto;nuget,nuget,004880;lua,luarocks,2C2D72;roblox,roblox,cdd6f4;)
 
-## 🔧 Technologies & Tools
+![Linters | Formatters | Analyzers](https://github-readme-tech-stack.vercel.app/api/cards?title=Linters%20%7C%20Formatters%20%7C%20Analyzers&fontFamily=Source%20Code%20Pro&lineCount=3&theme=catppuccin_mocha&titleColor=%23f5c2e7&line1=lua,luacheck,2C2D72;rubocop,rubocop,E9573F;prettier,prettier,F7B93E;eslint,eslint,4B32C3;&line2=sonarlint,sonarlint,CB2029;sonarqube,sonarqube,4E9BCD;sonarcloud,sonarcloud,F3702A;&line3=commitlint,commitlint,cdd6f4;)
+![Communities](https://github-readme-tech-stack.vercel.app/api/cards?title=Communities&fontFamily=Source%20Code%20Pro&lineCount=3&theme=catppuccin_mocha&titleColor=%2374c7ec&line1=stackoverflow,stackoverflow,F58025;khanacademy,khan%20academy,14BF96;leetcode,leetcode,FFA116;&line2=mdnwebdocs,mdn%20web%20docs,cdd6f4;superuser,superuser,38A1CE;freecodecamp,freecodecamp,cdd6f4;&line3=geeksforgeeks,geeks%20for%20geeks,2F8D46;openai,openai,412991;internet%20archive,internet%20archive,666666;)
 
-### ✏️ Languages (in descending order of proficiency)
+![OS | VM | Terminal | Shell | CLI](https://github-readme-tech-stack.vercel.app/api/cards?title=OS%20%7C%20VM%20%7C%20Terminal%20%7C%20Shell%20%7C%20CLI&fontFamily=Source%20Code%20Pro&lineCount=3&theme=catppuccin_mocha&titleColor=%23cba6f7&line1=archlinux,arch%20linux,1793D1;ubuntu,ubuntu,E95420;tmux,tmux,1BB91F;cmake,cmake,064F8C;&line2=windowsterminal,windows%20terminal,4D4D4D;windowsxp,xp,003399;ffmpeg,ffmpeg,007808;curl,curl,cdd6f4;&line3=chocolatey,chocolatey,80B5E3;powershell,powershell,5391FE;virtualbox,virtualbox,183A61;)
+![Office](https://github-readme-tech-stack.vercel.app/api/cards?title=Office&fontFamily=Source%20Code%20Pro&lineCount=3&theme=catppuccin_mocha&titleColor=%2389b4fa&line1=microsoftword,microsoft%20word,2B579A;microsoftexcel,microsoft%20excel,217346;&line2=libreoffice,libreoffice,18A303;microsoftpowerpoint,microsoft%20powerpoint,B7472A;&line3=googlesheets,google%20sheets,34A853;googledrive,google%20drive,4285F4;)
 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![XAML](https://img.shields.io/badge/xaml-0C54C2?style=for-the-badge&logo=xaml&logoColor=ffdd54)
-![AutoHotKey](https://img.shields.io/badge/AutoHotKey-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![CI/CD | Project Management | Version Control](https://github-readme-tech-stack.vercel.app/api/cards?title=CI/CD%20%7C%20Project%20Management%20%7C%20Version%20Control&fontFamily=Source%20Code%20Pro&fontSize=16&lineCount=2&theme=catppuccin_mocha&titleColor=%23f38ba8&line1=trello,trello,0052CC;git,git,F05032;github,github,cdd6f4;githubactions,github%20actions,2088FF;&line2=circleci,circleci,343434;)
+![Design](https://github-readme-tech-stack.vercel.app/api/cards?title=Design&fontFamily=Source%20Code%20Pro&lineCount=2&theme=catppuccin_mocha&titleColor=%23b4befe&line1=materialdesign,material%20design,757575;gimp,gimp,5C5543;figma,figma,F24E1E;&line2=fontawesome,font%20awesome,528DD7;materialdesignicons,material%20design%20icons,2196F3;)
 
-### 📚 Frameworks, Platforms & Libraries
+![Databases](https://github-readme-tech-stack.vercel.app/api/cards?title=Databases&fontFamily=Source%20Code%20Pro&lineCount=1&theme=catppuccin_mocha&titleColor=%23eba0ac&line1=postgresql,postgresql,4169E1;sqlite,sqlite,003B57;)
+![Specifications](https://github-readme-tech-stack.vercel.app/api/cards?title=Specifications&fontFamily=Source%20Code%20Pro&lineCount=1&theme=catppuccin_mocha&titleColor=%23cdd6f4&line1=conventionalcommits,conventional%20commits,FE5196;semver,semver,3F4551;)
 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![PyPI](https://img.shields.io/badge/pypi-%3775A9.svg?style=for-the-badge&logo=pypi&logoColor=white)
-![RubyGems](https://img.shields.io/badge/rubygems-E9573F.svg?style=for-the-badge&logo=rubygems&logoColor=white)
-![LuaRocks](https://img.shields.io/badge/luarocks-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-1B44cc?style=for-the-badge&logo=roblox&logoColor=white)
-![.NET](https://img.shields.io/badge/.net_framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Security | Networks | Unit Testing](https://github-readme-tech-stack.vercel.app/api/cards?title=Security%20%7C%20Networks%20%7C%20Unit%20Testing&fontFamily=Source%20Code%20Pro&lineCount=1&theme=catppuccin_mocha&titleColor=%23fab387&line1=jest,jest,C21325;lua,busted,2C2D72;virustotal,virustotal,394EFF;wireshark,wireshark,1679A7;)
+![Hosting | SaaS](https://github-readme-tech-stack.vercel.app/api/cards?title=Hosting%20%7C%20SaaS&fontFamily=Source%20Code%20Pro&lineCount=1&theme=catppuccin_mocha&titleColor=%23bac2de&line1=vercel,vercel,cdd6f4;githubpages,github%20pages,cdd6f4;)
 
-### ✒️ IDEs/Editors
-![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
-![Apache NetBeans IDE](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![Hex Editor](https://github-readme-tech-stack.vercel.app/api/cards?title=Hex%20Editor&fontFamily=Source%20Code%20Pro&lineCount=1&theme=catppuccin_mocha&titleColor=%23f9e2af&line1=zeroonezeroeditor,010editor,cdd6f4;)
+![Video Editing | Recording](https://github-readme-tech-stack.vercel.app/api/cards?title=Video%20Editing%20%7C%20Recording&fontFamily=Source%20Code%20Pro&lineCount=1&theme=catppuccin_mocha&titleColor=%23a6adc8&line1=obsstudio,obs%20studio,cdd6f4;shotcut,shotcut,115C77;)
 
-### 🖊️ Linters/Formatters/Analyzers
-
-![Luacheck](https://img.shields.io/badge/luacheck-%232C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white)
-![Rubocop](https://img.shields.io/badge/rubocop-000000.svg?style=for-the-badge&logo=rubocop&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![SonarLint](https://img.shields.io/badge/sonarlint-CB2029.svg?style=for-the-badge&logo=sonarlint&logoColor=white)
-![SonarQube](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
-![SonarCloud](https://img.shields.io/badge/sonarcloud-F3702A.svg?style=for-the-badge&logo=sonarcloud&logoColor=white)
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
-
-### 🔬 Continuous Integration (CI)
-
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![CircleCI](https://img.shields.io/badge/circleci-343434.svg?style=for-the-badge&logo=circleci&logoColor=white)
-
-### 🎨 Design
-
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### 🧪 Unit Testing
-
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Busted](https://img.shields.io/badge/busted-%232C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white)
-
-### 💾 Databases
-
-![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📑 Project Management
-
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-### 🔢 Version Control
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### 🎈 Hosting/SaaS
-
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/githubpages-%222222.svg?style=for-the-badge&logo=githubpages&logoColor=white)
-
-### 🖥️ Operating Systems & Virtual Machines
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
-![Virtual Box](https://img.shields.io/badge/Virtual_Box-183A91?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-### 🔏 Security
-
-![Virus Total](https://img.shields.io/badge/Virus_Total-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
-
-### 🔌 Networks
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### 🏢 Office
-
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-2B579A?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Libre Office](https://img.shields.io/badge/Libre_Office-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
-
-### ⚙️ Hex Editors
-
-<p style="text-align: center">010 Editor<br>
-  <img alt="010 Editor" title="010 Editor" width="64" height="64" src="https://insmac.org/uploads/posts/2018-10/1539323096_010-editor.png" />
-</p>
-
-### 👥 Developer/Forums/Collaboration/Communities
-
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
-![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
-![Super User](https://img.shields.io/badge/Super_User-38A1CE.svg?style=for-the-badge&logo=superuser&logoColor=white)
-
-### 🎲 Other
-![JSON](https://img.shields.io/badge/json-000000.svg?style=for-the-badge&logo=JSON&logoColor=%23F7DF1E)
-![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4d4d4d?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![Powershell](https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31.svg?style=for-the-badge&logo=obsstudio&logoColor=white)
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
-![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/Font%20Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
-![IFTTT](https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=ifttt&logoColor=white)
-![MIDI](https://img.shields.io/badge/MIDI-000000?style=for-the-badge&logo=midi&logoColor=white)
-![MuseScore](https://img.shields.io/badge/MuseScore-1A70B8?style=for-the-badge&logo=musescore&logoColor=white)
-![MusicBrainz](https://img.shields.io/badge/MusicBrainz-BA478F?style=for-the-badge&logo=musicbrainz&logoColor=white)
-![Internet Archive](https://img.shields.io/badge/Internet_Archive-666666?style=for-the-badge&logo=internetarchive&logoColor=white)
-![Open AI](https://img.shields.io/badge/Open_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![osu!](https://img.shields.io/badge/osu!-ff66aa?style=for-the-badge&logo=osu!&logoColor=white)
-![Pastebin](https://img.shields.io/badge/Pastebin-02456C?style=for-the-badge&logo=pastebin&logoColor=white)
-![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white)
-![VLC Media Player](https://img.shields.io/badge/VLC_Media_Player-FF8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white)
-![Winamp](https://img.shields.io/badge/Winamp-F93821?style=for-the-badge&logo=winamp&logoColor=white)
-![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=wolfram&logoColor=white)
+![Music](https://github-readme-tech-stack.vercel.app/api/cards?title=Music&fontFamily=Source%20Code%20Pro&lineCount=2&theme=catppuccin_mocha&titleColor=%23a6e3a1&line1=winamp,winamp,F93821;musescore,musescore,1A70B8;midi,midi,cdd6f4;discogs,discogs,cdd6f4;&line2=musicbrainz,musicbrainz,BA478F;foobar2000,foobar2000,;)
+![Other](https://github-readme-tech-stack.vercel.app/api/cards?title=Other&fontFamily=Source%20Code%20Pro&lineCount=2&theme=catppuccin_mocha&titleColor=%239399b2&line1=rainmeter,rainmeter,19519B;obsidian,obsidian,483699;ifttt,ifttt,cdd6f4;wolfram,wolfram,DD1100;&line2=tampermonkey,tampermonkey,00485B;)
 
 ## 💡 Hobbies, Interests & Favourites
 
@@ -170,6 +33,7 @@
   <summary>Click here to expand</summary>
   <h3>Favourites</h3>
   Programming Language: Lua<br>
+  Operating System: Arch Linux<br>
   <h3>Hobbies & Interests</h3>
   Fencing & Historical Swords, Nature, Drawing, Worldbuilding, Videogame modding, Conlangs, Chess, Manga/Anime, Sudoku, Speedrunning, Retro gaming, Lockpick puzzles, Reverse engineering, Categorization and pattern recognition, Touhou Doujin Music (Eurobeat, Rock, Folk, Trance, Bossa Nova, J-Pop, Jazz, Classical, House, Nu-Disco, Electro Swing), Buckethead
 </details>
@@ -217,17 +81,4 @@ Binary             35 hrs 39 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
  /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\
  .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
  ```
-<!--
-**DorielRivalet/dorielrivalet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
