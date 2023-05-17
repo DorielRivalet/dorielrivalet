@@ -18,6 +18,10 @@
   <h3>Favourites</h3>
   Programming Language: Lua<br>
   Operating System: Arch Linux<br>
+  Color Theme: Catppuccin Mocha<br>
+  Text Editor: Neovim<br>
+  Terminal: kitty<br>
+  Command line shell: Fish<br>
   <h3>Hobbies & Interests</h3>
   Fencing & Historical Swords, Nature, Drawing, Worldbuilding, Videogame modding, Conlangs, Chess, Manga/Anime, Sudoku, Speedrunning, Retro gaming, Lockpick puzzles, Reverse engineering, Categorization and pattern recognition, Touhou Doujin Music (Eurobeat, Rock, Folk, Trance, Bossa Nova, J-Pop, Jazz, Classical, House, Nu-Disco, Electro Swing), Buckethead
 </details>
