@@ -1,4 +1,25 @@
-# <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi there, I'm Doriel Rivalet!</h1>
+```text
+doriel@rivalet:~$ readmefetch
+                   -`                       doriel@rivalet
+                  .o+`                      -------------- 
+                 `ooo/                      Host: LENOVO ThinkPad L15 Gen 2
+                `+oooo:                     OS: Arch Linux x86_64 
+               `+oooooo:                    Shell: fish (Tide, Fisher, Catppucin-Mocha)
+               -+oooooo+:                   Packages: 2065 (pacman)
+             `/:-:++oooo+:                  Resolution: 1360x768, 1360x768, 1360x768
+            `/++++/+++++++:                 Mouse Cursor: Catppuccin-Mocha-Dark 
+           `/++++++++++++++:                Terminal: kitty
+          `/+++ooooooooooooo/`              Kitty Terminal Font: MesloLGS NF 
+         ./ooosssso++osssssso+`             Multiplexer: tmux
+        .oossssso-````/ossssss+`            Music Player: ncmpcpp
+       -osssssso.      :ssssssso.           Music Visualizer: cava
+      :osssssss/        osssso+++.          File Manager: ranger
+     /ossssssss/        +ssssooo/-          App Launcher: rofi
+   `/ossssso+/:-        -:/+osssso+-        Document Viewer: zathura
+  `+sso+:-`                 `.-/+oso:       Compositor: picom
+ `++:.                           `-/+/      Notes: Obsidian (Catppuccin theme)
+ .`                                 `       Editor: neovim
+```
 
 | <img width="100%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Programming%20Languages&fontFamily=Source%20Code%20Pro&lineCount=3&theme=catppuccin_mocha&titleColor=%23f5e0dc&line1=lua,lua,2C2D72;ruby,ruby,CC342D;javascript,javascript,F7DF1E;csharp,csharp,239120;&line2=python,python,auto;oracle,java,F80000;cplusplus,c%2b%2b,00599C;php,php,auto;&line3=autohotkey,autohotkey,334455;"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          	| <img width="100%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=IDE%20%7C%20Editors&fontFamily=Source%20Code%20Pro&lineCount=3&theme=catppuccin_mocha&titleColor=%2394e2d5&line1=neovim,neovim,auto;visualstudiocode,visual%20studio%20code,007ACC;visualstudio,visual%20studio,5C2D91;&line2=vim,vim,019733;eclipseide,eclipse,2C2255;notepadplusplus,notepad%2b%2b,90E59A;codepen,codepen,cdd6f4;&line3=replit,replit,F26207;apachenetbeanside,apache%20netbeans%20ide,1B6AC6;"/>                	|
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
