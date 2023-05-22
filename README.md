@@ -78,13 +78,13 @@ Binary             37 hrs 14 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </details>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#92](https://github.com/DorielRivalet/mhfz-overlay/pull/92) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-2. 🎉 Merged PR [#93](https://github.com/DorielRivalet/mhfz-overlay/pull/93) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-3. 🎉 Merged PR [#101](https://github.com/DorielRivalet/mhfz-overlay/pull/101) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-4. 💪 Opened PR [#101](https://github.com/DorielRivalet/mhfz-overlay/pull/101) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-5. 🎉 Merged PR [#100](https://github.com/DorielRivalet/mhfz-overlay/pull/100) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-6. 💪 Opened PR [#100](https://github.com/DorielRivalet/mhfz-overlay/pull/100) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-7. 🎉 Merged PR [#99](https://github.com/DorielRivalet/mhfz-overlay/pull/99) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+1. 🎉 Merged PR [#91](https://github.com/DorielRivalet/mhfz-overlay/pull/91) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+2. 🎉 Merged PR [#92](https://github.com/DorielRivalet/mhfz-overlay/pull/92) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+3. 🎉 Merged PR [#93](https://github.com/DorielRivalet/mhfz-overlay/pull/93) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+4. 🎉 Merged PR [#101](https://github.com/DorielRivalet/mhfz-overlay/pull/101) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+5. 💪 Opened PR [#101](https://github.com/DorielRivalet/mhfz-overlay/pull/101) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+6. 🎉 Merged PR [#100](https://github.com/DorielRivalet/mhfz-overlay/pull/100) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+7. 💪 Opened PR [#100](https://github.com/DorielRivalet/mhfz-overlay/pull/100) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
