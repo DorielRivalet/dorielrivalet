@@ -78,10 +78,10 @@ Binary             42 hrs 41 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </details>
  
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#110](https://github.com/DorielRivalet/mhfz-overlay/issues/110) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-2. ❗️ Opened issue [#109](https://github.com/DorielRivalet/mhfz-overlay/issues/109) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-3. ❗️ Opened issue [#108](https://github.com/DorielRivalet/mhfz-overlay/issues/108) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-4. ❗️ Closed issue [#32](https://github.com/DorielRivalet/mhfz-overlay/issues/32) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+1. ❗ Opened issue [#110](https://github.com/DorielRivalet/mhfz-overlay/issues/110) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+2. ❗ Opened issue [#109](https://github.com/DorielRivalet/mhfz-overlay/issues/109) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+3. ❗ Opened issue [#108](https://github.com/DorielRivalet/mhfz-overlay/issues/108) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+4. 🔒 Closed issue [#32](https://github.com/DorielRivalet/mhfz-overlay/issues/32) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
 5. 🗣 Commented on [#32](https://github.com/DorielRivalet/mhfz-overlay/issues/32) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
 6. 🎉 Merged PR [#107](https://github.com/DorielRivalet/mhfz-overlay/pull/107) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
 7. 💪 Opened PR [#107](https://github.com/DorielRivalet/mhfz-overlay/pull/107) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
