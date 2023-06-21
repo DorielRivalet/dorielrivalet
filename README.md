@@ -52,10 +52,9 @@ doriel@rivalet:~$ readmefetch
 | <img width="100%" src="https://github-readme-stats-dorielrivalet.vercel.app/api?username=dorielrivalet&show_icons=true&custom_title=Welcome%20to%20my%20profile!&include_all_commits=true&text_color=cdd6f4&bg_color=1e1e2e&title_color=a6e3a1&border_color=1e1e2e&icon_color=a6e3a1&count_private=true"/> 	| <img width="100%" src="https://streak-stats.demolab.com/?user=DorielRivalet&background=1e1e2e&border=21262D&dates=bac2de&currStreakNum=cdd6f4&sideNums=cdd6f4&sideLabels=cdd6f4&stroke=cdd6f4&fire=f9e2af&ring=fab387&currStreakLabel=fab387"/>    	|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------	|
 | <img width="100%" src="https://github-readme-stats-dorielrivalet.vercel.app/api/top-langs?username=dorielrivalet&layout=compact&border_color=1e1e2e&langs_count=10&text_color=cdd6f4&bg_color=1e1e2e&title_color=89b4fa">                                                                      	|<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dorielrivalet&text_color=cdd6f4&bg_color=1e1e2e&title_color=94e2d5&icon_color=89dceb&border_color=1e1e2e&layout=compact">|
+<img width="100%" src="https://raw.githubusercontent.com/dorielrivalet/github-stats/master/generated/overview.svg#gh-dark-mode-only">| <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dorielrivalet&theme=dracula&utcOffset=-3">|
 
 [![Doriel Rivalet's github activity graph](https://github-readme-activity-graph-dorielrivalet.vercel.app/graph?username=DorielRivalet&bg_color=1e1e2e&color=cdd6f4&title_color=f9e2af&line=fab387&point=f9e2af)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dorielrivalet&theme=dracula&utcOffset=-3)
 
 <!--START_SECTION:waka-->
 
