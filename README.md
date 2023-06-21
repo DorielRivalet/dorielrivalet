@@ -72,10 +72,10 @@ Markdown           44 hrs 38 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-<details align="center">
+<!--<details align="center">
   <summary align="center">Click here to expand</summary>
   <img align="center" src="/github-metrics.svg" alt="Metrics" width="50%">
-</details>
+</details>-->
  
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#132](https://github.com/WerWolv/ImHex-Patterns/pull/132) in [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns)
