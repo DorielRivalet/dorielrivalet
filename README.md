@@ -78,13 +78,13 @@ Markdown           44 hrs 41 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </details>-->
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#132](https://github.com/WerWolv/ImHex-Patterns/pull/132) in [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns)
-2. 🎉 Merged PR [#2](https://github.com/catppuccin/imhex/pull/2) in [catppuccin/imhex](https://github.com/catppuccin/imhex)
-3. 🔒 Closed issue [#1](https://github.com/catppuccin/imhex/issues/1) in [catppuccin/imhex](https://github.com/catppuccin/imhex)
-4. 💪 Opened PR [#2](https://github.com/catppuccin/imhex/pull/2) in [catppuccin/imhex](https://github.com/catppuccin/imhex)
-5. ❗ Opened issue [#1](https://github.com/catppuccin/imhex/issues/1) in [catppuccin/imhex](https://github.com/catppuccin/imhex)
-6. 🎉 Merged PR [#111](https://github.com/DorielRivalet/mhfz-overlay/pull/111) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-7. 🎉 Merged PR [#112](https://github.com/DorielRivalet/mhfz-overlay/pull/112) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+1. 🗣 Commented on [#121](https://github.com/DorielRivalet/mhfz-overlay/issues/121) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+2. 💪 Opened PR [#132](https://github.com/WerWolv/ImHex-Patterns/pull/132) in [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns)
+3. 🎉 Merged PR [#2](https://github.com/catppuccin/imhex/pull/2) in [catppuccin/imhex](https://github.com/catppuccin/imhex)
+4. 🔒 Closed issue [#1](https://github.com/catppuccin/imhex/issues/1) in [catppuccin/imhex](https://github.com/catppuccin/imhex)
+5. 💪 Opened PR [#2](https://github.com/catppuccin/imhex/pull/2) in [catppuccin/imhex](https://github.com/catppuccin/imhex)
+6. ❗ Opened issue [#1](https://github.com/catppuccin/imhex/issues/1) in [catppuccin/imhex](https://github.com/catppuccin/imhex)
+7. 🎉 Merged PR [#111](https://github.com/DorielRivalet/mhfz-overlay/pull/111) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
