@@ -78,13 +78,13 @@ Markdown           45 hrs 25 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </details>-->
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/DorielRivalet/mhfz-overlay/issues/121) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-2. 🔒 Closed issue [#121](https://github.com/DorielRivalet/mhfz-overlay/issues/121) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-3. 🗣 Commented on [#121](https://github.com/DorielRivalet/mhfz-overlay/issues/121) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-4. 💪 Opened PR [#132](https://github.com/WerWolv/ImHex-Patterns/pull/132) in [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns)
-5. 🎉 Merged PR [#2](https://github.com/catppuccin/imhex/pull/2) in [catppuccin/imhex](https://github.com/catppuccin/imhex)
-6. 🔒 Closed issue [#1](https://github.com/catppuccin/imhex/issues/1) in [catppuccin/imhex](https://github.com/catppuccin/imhex)
-7. 💪 Opened PR [#2](https://github.com/catppuccin/imhex/pull/2) in [catppuccin/imhex](https://github.com/catppuccin/imhex)
+1. 🗣 Commented on [#123](https://github.com/DorielRivalet/mhfz-overlay/issues/123) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+2. 🗣 Commented on [#121](https://github.com/DorielRivalet/mhfz-overlay/issues/121) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+3. 🔒 Closed issue [#121](https://github.com/DorielRivalet/mhfz-overlay/issues/121) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+4. 🗣 Commented on [#121](https://github.com/DorielRivalet/mhfz-overlay/issues/121) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+5. 💪 Opened PR [#132](https://github.com/WerWolv/ImHex-Patterns/pull/132) in [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns)
+6. 🎉 Merged PR [#2](https://github.com/catppuccin/imhex/pull/2) in [catppuccin/imhex](https://github.com/catppuccin/imhex)
+7. 🔒 Closed issue [#1](https://github.com/catppuccin/imhex/issues/1) in [catppuccin/imhex](https://github.com/catppuccin/imhex)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
