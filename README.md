@@ -78,11 +78,11 @@ Markdown           46 hrs 8 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </details>-->
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/DorielRivalet/mhfz-overlay/issues/123) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-2. 🗣 Commented on [#123](https://github.com/DorielRivalet/mhfz-overlay/issues/123) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-3. 🗣 Commented on [#121](https://github.com/DorielRivalet/mhfz-overlay/issues/121) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+1. 🗣 Commented on [#123](https://github.com/DorielRivalet/mhfz-overlay/issues/123#issuecomment-1629600016) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+2. 🗣 Commented on [#123](https://github.com/DorielRivalet/mhfz-overlay/issues/123#issuecomment-1627860548) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+3. 🗣 Commented on [#121](https://github.com/DorielRivalet/mhfz-overlay/issues/121#issuecomment-1619168852) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
 4. 🔒 Closed issue [#121](https://github.com/DorielRivalet/mhfz-overlay/issues/121) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-5. 🗣 Commented on [#121](https://github.com/DorielRivalet/mhfz-overlay/issues/121) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+5. 🗣 Commented on [#121](https://github.com/DorielRivalet/mhfz-overlay/issues/121#issuecomment-1616735262) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
 6. 💪 Opened PR [#132](https://github.com/WerWolv/ImHex-Patterns/pull/132) in [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns)
 7. 🎉 Merged PR [#2](https://github.com/catppuccin/imhex/pull/2) in [catppuccin/imhex](https://github.com/catppuccin/imhex)
 <!--END_SECTION:activity-->
