@@ -78,13 +78,13 @@ Markdown           51 hrs 34 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </details>-->
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/DorielRivalet/mhfz-overlay/issues/123#issuecomment-1629600016) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-2. 🗣 Commented on [#123](https://github.com/DorielRivalet/mhfz-overlay/issues/123#issuecomment-1627860548) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-3. 🗣 Commented on [#121](https://github.com/DorielRivalet/mhfz-overlay/issues/121#issuecomment-1619168852) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-4. 🔒 Closed issue [#121](https://github.com/DorielRivalet/mhfz-overlay/issues/121) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-5. 🗣 Commented on [#121](https://github.com/DorielRivalet/mhfz-overlay/issues/121#issuecomment-1616735262) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-6. 💪 Opened PR [#132](https://github.com/WerWolv/ImHex-Patterns/pull/132) in [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns)
-7. 🎉 Merged PR [#2](https://github.com/catppuccin/imhex/pull/2) in [catppuccin/imhex](https://github.com/catppuccin/imhex)
+1. 🎉 Merged PR [#7](https://github.com/DorielRivalet/ezlion/pull/7) in [DorielRivalet/ezlion](https://github.com/DorielRivalet/ezlion)
+2. 🎉 Merged PR [#8](https://github.com/DorielRivalet/ezlion/pull/8) in [DorielRivalet/ezlion](https://github.com/DorielRivalet/ezlion)
+3. 🎉 Merged PR [#6](https://github.com/DorielRivalet/ezlion/pull/6) in [DorielRivalet/ezlion](https://github.com/DorielRivalet/ezlion)
+4. 🎉 Merged PR [#10](https://github.com/DorielRivalet/ezlion/pull/10) in [DorielRivalet/ezlion](https://github.com/DorielRivalet/ezlion)
+5. 💪 Opened PR [#10](https://github.com/DorielRivalet/ezlion/pull/10) in [DorielRivalet/ezlion](https://github.com/DorielRivalet/ezlion)
+6. 🎉 Merged PR [#9](https://github.com/DorielRivalet/ezlion/pull/9) in [DorielRivalet/ezlion](https://github.com/DorielRivalet/ezlion)
+7. 💪 Opened PR [#9](https://github.com/DorielRivalet/ezlion/pull/9) in [DorielRivalet/ezlion](https://github.com/DorielRivalet/ezlion)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
