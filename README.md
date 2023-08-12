@@ -78,13 +78,13 @@ Markdown           55 hrs 26 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </details>-->
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#161](https://github.com/DorielRivalet/mhfz-overlay/pull/161) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-2. 🎉 Merged PR [#160](https://github.com/DorielRivalet/mhfz-overlay/pull/160) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-3. 🎉 Merged PR [#11](https://github.com/DorielRivalet/ezlion/pull/11) in [DorielRivalet/ezlion](https://github.com/DorielRivalet/ezlion)
-4. 🎉 Merged PR [#12](https://github.com/DorielRivalet/ezlion/pull/12) in [DorielRivalet/ezlion](https://github.com/DorielRivalet/ezlion)
-5. 🎉 Merged PR [#13](https://github.com/DorielRivalet/ezlion/pull/13) in [DorielRivalet/ezlion](https://github.com/DorielRivalet/ezlion)
-6. ❗ Opened issue [#162](https://github.com/DorielRivalet/mhfz-overlay/issues/162) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-7. 🎉 Merged PR [#154](https://github.com/DorielRivalet/mhfz-overlay/pull/154) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+1. 🎉 Merged PR [#163](https://github.com/DorielRivalet/mhfz-overlay/pull/163) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+2. 🎉 Merged PR [#165](https://github.com/DorielRivalet/mhfz-overlay/pull/165) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+3. 🎉 Merged PR [#166](https://github.com/DorielRivalet/mhfz-overlay/pull/166) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+4. 🎉 Merged PR [#161](https://github.com/DorielRivalet/mhfz-overlay/pull/161) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+5. 🎉 Merged PR [#160](https://github.com/DorielRivalet/mhfz-overlay/pull/160) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+6. 🎉 Merged PR [#11](https://github.com/DorielRivalet/ezlion/pull/11) in [DorielRivalet/ezlion](https://github.com/DorielRivalet/ezlion)
+7. 🎉 Merged PR [#12](https://github.com/DorielRivalet/ezlion/pull/12) in [DorielRivalet/ezlion](https://github.com/DorielRivalet/ezlion)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
