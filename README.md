@@ -78,13 +78,13 @@ Svelte             83 hrs 31 mins  ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </details>-->
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/DorielRivalet/frontier-compendium/pull/47) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
-2. 🎉 Merged PR [#48](https://github.com/DorielRivalet/frontier-compendium/pull/48) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
-3. 🎉 Merged PR [#46](https://github.com/DorielRivalet/frontier-compendium/pull/46) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
-4. 🎉 Merged PR [#45](https://github.com/DorielRivalet/frontier-compendium/pull/45) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
-5. 🎉 Merged PR [#44](https://github.com/DorielRivalet/frontier-compendium/pull/44) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
-6. 🎉 Merged PR [#43](https://github.com/DorielRivalet/frontier-compendium/pull/43) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
-7. 🎉 Merged PR [#42](https://github.com/DorielRivalet/frontier-compendium/pull/42) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
+1. 🎉 Merged PR [#50](https://github.com/DorielRivalet/frontier-compendium/pull/50) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
+2. 🎉 Merged PR [#49](https://github.com/DorielRivalet/frontier-compendium/pull/49) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
+3. 🎉 Merged PR [#51](https://github.com/DorielRivalet/frontier-compendium/pull/51) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
+4. 🎉 Merged PR [#47](https://github.com/DorielRivalet/frontier-compendium/pull/47) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
+5. 🎉 Merged PR [#48](https://github.com/DorielRivalet/frontier-compendium/pull/48) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
+6. 🎉 Merged PR [#46](https://github.com/DorielRivalet/frontier-compendium/pull/46) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
+7. 🎉 Merged PR [#45](https://github.com/DorielRivalet/frontier-compendium/pull/45) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
