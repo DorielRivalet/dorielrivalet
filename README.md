@@ -59,7 +59,7 @@ doriel@rivalet:~$ readmefetch
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2022 - To: 28 November 2023
+From: 29 November 2022 - To: 29 November 2023
 
 Total Time: 1,066 hrs 13 mins
 
