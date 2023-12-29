@@ -59,15 +59,15 @@ doriel@rivalet:~$ readmefetch
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2022 - To: 26 December 2023
+From: 27 December 2022 - To: 27 December 2023
 
-Total Time: 1,015 hrs 7 mins
+Total Time: 1,004 hrs 27 mins
 
-C#                 437 hrs 53 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.71 %
-XAML               123 hrs 54 mins ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.52 %
-Svelte             114 hrs 5 mins  ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.61 %
-Binary             89 hrs 52 mins  ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.36 %
-JavaScript         64 hrs 45 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.02 %
+C#                 428 hrs 33 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.31 %
+XAML               122 hrs 34 mins ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.53 %
+Svelte             114 hrs 5 mins  ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.73 %
+Binary             89 hrs 52 mins  ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.45 %
+JavaScript         64 hrs 45 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.09 %
 ```
 
 <!--END_SECTION:waka-->
