@@ -78,13 +78,13 @@ JavaScript         78 hrs 43 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </details>-->
  
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#248](https://github.com/DorielRivalet/mhfz-overlay/issues/248) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-2. 🔒 Closed issue [#252](https://github.com/DorielRivalet/mhfz-overlay/issues/252) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-3. 🔒 Closed issue [#256](https://github.com/DorielRivalet/mhfz-overlay/issues/256) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-4. 🔒 Closed issue [#253](https://github.com/DorielRivalet/mhfz-overlay/issues/253) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-5. 🔒 Closed issue [#251](https://github.com/DorielRivalet/mhfz-overlay/issues/251) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-6. ❗ Opened issue [#266](https://github.com/DorielRivalet/mhfz-overlay/issues/266) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-7. ❗ Opened issue [#265](https://github.com/DorielRivalet/mhfz-overlay/issues/265) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+1. 🔒 Closed issue [#245](https://github.com/DorielRivalet/mhfz-overlay/issues/245) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+2. 🗣 Commented on [#245](https://github.com/DorielRivalet/mhfz-overlay/issues/245#issuecomment-1912994466) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+3. 🗣 Commented on [#255](https://github.com/DorielRivalet/mhfz-overlay/issues/255#issuecomment-1912951759) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+4. 🔒 Closed issue [#254](https://github.com/DorielRivalet/mhfz-overlay/issues/254) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+5. 🔒 Closed issue [#247](https://github.com/DorielRivalet/mhfz-overlay/issues/247) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+6. 🔒 Closed issue [#248](https://github.com/DorielRivalet/mhfz-overlay/issues/248) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+7. 🔒 Closed issue [#252](https://github.com/DorielRivalet/mhfz-overlay/issues/252) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
