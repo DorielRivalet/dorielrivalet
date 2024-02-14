@@ -78,13 +78,13 @@ JavaScript         78 hrs 57 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </details>-->
  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#282](https://github.com/DorielRivalet/mhfz-overlay/issues/282) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-2. ❗ Opened issue [#281](https://github.com/DorielRivalet/mhfz-overlay/issues/281) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-3. 🚀 Published release [v0.35.0](https://github.com/DorielRivalet/mhfz-overlay/releases/tag/v0.35.0) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-4. 🎉 Merged PR [#280](https://github.com/DorielRivalet/mhfz-overlay/pull/280) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-5. 💪 Opened PR [#280](https://github.com/DorielRivalet/mhfz-overlay/pull/280) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-6. 🔒 Closed issue [#274](https://github.com/DorielRivalet/mhfz-overlay/issues/274) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-7. 🔒 Closed issue [#277](https://github.com/DorielRivalet/mhfz-overlay/issues/277) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+1. 🎉 Merged PR [#294](https://github.com/DorielRivalet/mhfz-overlay/pull/294) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+2. 💪 Opened PR [#294](https://github.com/DorielRivalet/mhfz-overlay/pull/294) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+3. 🚀 Published release [v0.36.1](https://github.com/DorielRivalet/mhfz-overlay/releases/tag/v0.36.1) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+4. 🎉 Merged PR [#293](https://github.com/DorielRivalet/mhfz-overlay/pull/293) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+5. 💪 Opened PR [#293](https://github.com/DorielRivalet/mhfz-overlay/pull/293) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+6. ❌ Closed PR [#222](https://github.com/DorielRivalet/mhfz-overlay/pull/222) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+7. 🎉 Merged PR [#292](https://github.com/DorielRivalet/mhfz-overlay/pull/292) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
