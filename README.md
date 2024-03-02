@@ -78,13 +78,13 @@ JavaScript         80 hrs 50 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </details>-->
  
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.37.1](https://github.com/DorielRivalet/mhfz-overlay/releases/tag/v0.37.1) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-2. 🎉 Merged PR [#310](https://github.com/DorielRivalet/mhfz-overlay/pull/310) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-3. 💪 Opened PR [#310](https://github.com/DorielRivalet/mhfz-overlay/pull/310) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-4. 🎉 Merged PR [#183](https://github.com/DorielRivalet/frontier-compendium/pull/183) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
-5. 🎉 Merged PR [#184](https://github.com/DorielRivalet/frontier-compendium/pull/184) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
-6. 🎉 Merged PR [#186](https://github.com/DorielRivalet/frontier-compendium/pull/186) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
-7. 🎉 Merged PR [#185](https://github.com/DorielRivalet/frontier-compendium/pull/185) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
+1. 🎉 Merged PR [#191](https://github.com/DorielRivalet/frontier-compendium/pull/191) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
+2. 🎉 Merged PR [#190](https://github.com/DorielRivalet/frontier-compendium/pull/190) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
+3. 🎉 Merged PR [#189](https://github.com/DorielRivalet/frontier-compendium/pull/189) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
+4. 🎉 Merged PR [#188](https://github.com/DorielRivalet/frontier-compendium/pull/188) in [DorielRivalet/frontier-compendium](https://github.com/DorielRivalet/frontier-compendium)
+5. 🚀 Published release [v0.37.1](https://github.com/DorielRivalet/mhfz-overlay/releases/tag/v0.37.1) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+6. 🎉 Merged PR [#310](https://github.com/DorielRivalet/mhfz-overlay/pull/310) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+7. 💪 Opened PR [#310](https://github.com/DorielRivalet/mhfz-overlay/pull/310) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
