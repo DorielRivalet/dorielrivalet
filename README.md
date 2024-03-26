@@ -78,13 +78,13 @@ JavaScript         84 hrs 37 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </details>-->
  
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#28](https://github.com/DorielRivalet/ezlion/pull/28) in [DorielRivalet/ezlion](https://github.com/DorielRivalet/ezlion)
-2. ❌ Closed PR [#30](https://github.com/DorielRivalet/ezlion/pull/30) in [DorielRivalet/ezlion](https://github.com/DorielRivalet/ezlion)
-3. ❌ Closed PR [#31](https://github.com/DorielRivalet/ezlion/pull/31) in [DorielRivalet/ezlion](https://github.com/DorielRivalet/ezlion)
-4. 🎉 Merged PR [#201](https://github.com/DorielRivalet/wycademy/pull/201) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-5. 🎉 Merged PR [#209](https://github.com/DorielRivalet/wycademy/pull/209) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-6. 🎉 Merged PR [#208](https://github.com/DorielRivalet/wycademy/pull/208) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-7. 🎉 Merged PR [#205](https://github.com/DorielRivalet/wycademy/pull/205) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+1. 🎉 Merged PR [#219](https://github.com/DorielRivalet/wycademy/pull/219) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+2. 🎉 Merged PR [#212](https://github.com/DorielRivalet/wycademy/pull/212) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+3. 🎉 Merged PR [#223](https://github.com/DorielRivalet/wycademy/pull/223) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+4. 🎉 Merged PR [#222](https://github.com/DorielRivalet/wycademy/pull/222) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+5. 🎉 Merged PR [#218](https://github.com/DorielRivalet/wycademy/pull/218) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+6. 🎉 Merged PR [#214](https://github.com/DorielRivalet/wycademy/pull/214) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+7. ❌ Closed PR [#28](https://github.com/DorielRivalet/ezlion/pull/28) in [DorielRivalet/ezlion](https://github.com/DorielRivalet/ezlion)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
