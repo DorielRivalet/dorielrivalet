@@ -78,13 +78,13 @@ Binary            64 hrs 28 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>-->
  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#348](https://github.com/DorielRivalet/mhfz-overlay/issues/348) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-2. ❗ Opened issue [#347](https://github.com/DorielRivalet/mhfz-overlay/issues/347) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-3. ❗ Opened issue [#361](https://github.com/DorielRivalet/wycademy/issues/361) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-4. ❗ Opened issue [#360](https://github.com/DorielRivalet/wycademy/issues/360) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-5. 🗣 Commented on [#355](https://github.com/DorielRivalet/wycademy/pull/355#issuecomment-2148161970) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-6. 🎉 Merged PR [#352](https://github.com/DorielRivalet/wycademy/pull/352) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-7. 🎉 Merged PR [#348](https://github.com/DorielRivalet/wycademy/pull/348) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+1. 🎉 Merged PR [#339](https://github.com/DorielRivalet/mhfz-overlay/pull/339) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+2. 🎉 Merged PR [#343](https://github.com/DorielRivalet/mhfz-overlay/pull/343) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+3. ❗ Opened issue [#348](https://github.com/DorielRivalet/mhfz-overlay/issues/348) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+4. ❗ Opened issue [#347](https://github.com/DorielRivalet/mhfz-overlay/issues/347) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+5. ❗ Opened issue [#361](https://github.com/DorielRivalet/wycademy/issues/361) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+6. ❗ Opened issue [#360](https://github.com/DorielRivalet/wycademy/issues/360) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+7. 🗣 Commented on [#355](https://github.com/DorielRivalet/wycademy/pull/355#issuecomment-2148161970) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
