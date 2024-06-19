@@ -78,13 +78,13 @@ Binary            61 hrs 20 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>-->
  
 <!--START_SECTION:activity-->
-1. 🚀 Published release [test](https://github.com/DorielRivalet/mhfz-overlay/releases/tag/test) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-2. 🚀 Published release [test2](https://github.com/DorielRivalet/mhfz-overlay/releases/tag/test) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-3. 🚀 Published release [test2](https://github.com/DorielRivalet/mhfz-overlay/releases/tag/test) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-4. 🚀 Published release [test1](https://github.com/DorielRivalet/mhfz-overlay/releases/tag/test) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+1. 💪 Opened PR [#349](https://github.com/DorielRivalet/mhfz-overlay/pull/349) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+2. 🚀 Published release [test](https://github.com/DorielRivalet/mhfz-overlay/releases/tag/test) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+3. 🚀 Published release [test](https://github.com/DorielRivalet/mhfz-overlay/releases/tag/test) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+4. 🚀 Published release [test](https://github.com/DorielRivalet/mhfz-overlay/releases/tag/test) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
 5. 🚀 Published release [test](https://github.com/DorielRivalet/mhfz-overlay/releases/tag/test) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-6. 🚀 Published release [test](https://github.com/DorielRivalet/mhfz-overlay/releases/tag/test) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-7. 🎉 Merged PR [#339](https://github.com/DorielRivalet/mhfz-overlay/pull/339) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+6. 🚀 Published release [test2](https://github.com/DorielRivalet/mhfz-overlay/releases/tag/test) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+7. 🚀 Published release [test2](https://github.com/DorielRivalet/mhfz-overlay/releases/tag/test) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
