@@ -78,13 +78,13 @@ Binary            40 hrs 27 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>-->
  
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#435](https://github.com/DorielRivalet/wycademy/issues/435) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-2. 🔒 Closed issue [#434](https://github.com/DorielRivalet/wycademy/issues/434) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-3. 🔒 Closed issue [#432](https://github.com/DorielRivalet/wycademy/issues/432) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-4. ❗ Opened issue [#436](https://github.com/DorielRivalet/wycademy/issues/436) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-5. ❗ Opened issue [#435](https://github.com/DorielRivalet/wycademy/issues/435) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-6. ❗ Opened issue [#434](https://github.com/DorielRivalet/wycademy/issues/434) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-7. ❗ Opened issue [#433](https://github.com/DorielRivalet/wycademy/issues/433) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+1. 🎉 Merged PR [#449](https://github.com/DorielRivalet/wycademy/pull/449) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+2. 🎉 Merged PR [#457](https://github.com/DorielRivalet/wycademy/pull/457) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+3. 🎉 Merged PR [#456](https://github.com/DorielRivalet/wycademy/pull/456) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+4. 🎉 Merged PR [#455](https://github.com/DorielRivalet/wycademy/pull/455) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+5. 🎉 Merged PR [#452](https://github.com/DorielRivalet/wycademy/pull/452) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+6. 🎉 Merged PR [#451](https://github.com/DorielRivalet/wycademy/pull/451) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+7. 🎉 Merged PR [#447](https://github.com/DorielRivalet/wycademy/pull/447) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
