@@ -78,13 +78,13 @@ Binary            39 hrs 14 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>-->
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#454](https://github.com/DorielRivalet/wycademy/pull/454) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-2. 🎉 Merged PR [#466](https://github.com/DorielRivalet/wycademy/pull/466) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-3. 🎉 Merged PR [#465](https://github.com/DorielRivalet/wycademy/pull/465) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-4. 🎉 Merged PR [#467](https://github.com/DorielRivalet/wycademy/pull/467) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-5. 🎉 Merged PR [#453](https://github.com/DorielRivalet/wycademy/pull/453) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-6. 🎉 Merged PR [#461](https://github.com/DorielRivalet/wycademy/pull/461) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-7. 🎉 Merged PR [#464](https://github.com/DorielRivalet/wycademy/pull/464) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+1. ❗ Opened issue [#370](https://github.com/DorielRivalet/mhfz-overlay/issues/370) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+2. 🎉 Merged PR [#454](https://github.com/DorielRivalet/wycademy/pull/454) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+3. 🎉 Merged PR [#466](https://github.com/DorielRivalet/wycademy/pull/466) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+4. 🎉 Merged PR [#465](https://github.com/DorielRivalet/wycademy/pull/465) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+5. 🎉 Merged PR [#467](https://github.com/DorielRivalet/wycademy/pull/467) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+6. 🎉 Merged PR [#453](https://github.com/DorielRivalet/wycademy/pull/453) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+7. 🎉 Merged PR [#461](https://github.com/DorielRivalet/wycademy/pull/461) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
