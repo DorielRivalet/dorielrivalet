@@ -78,13 +78,13 @@ Binary            33 hrs 11 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>-->
  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#504](https://github.com/DorielRivalet/wycademy/issues/504) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-2. ❗ Opened issue [#500](https://github.com/DorielRivalet/wycademy/issues/500) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-3. ❗ Opened issue [#499](https://github.com/DorielRivalet/wycademy/issues/499) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-4. ❗ Opened issue [#498](https://github.com/DorielRivalet/wycademy/issues/498) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-5. ❗ Opened issue [#497](https://github.com/DorielRivalet/wycademy/issues/497) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-6. ❗ Opened issue [#373](https://github.com/DorielRivalet/mhfz-overlay/issues/373) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-7. ❗ Opened issue [#491](https://github.com/DorielRivalet/wycademy/issues/491) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+1. 🗣 Commented on [#500](https://github.com/DorielRivalet/wycademy/issues/500#issuecomment-2301235355) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+2. ❗ Opened issue [#504](https://github.com/DorielRivalet/wycademy/issues/504) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+3. ❗ Opened issue [#500](https://github.com/DorielRivalet/wycademy/issues/500) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+4. ❗ Opened issue [#499](https://github.com/DorielRivalet/wycademy/issues/499) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+5. ❗ Opened issue [#498](https://github.com/DorielRivalet/wycademy/issues/498) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+6. ❗ Opened issue [#497](https://github.com/DorielRivalet/wycademy/issues/497) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+7. ❗ Opened issue [#373](https://github.com/DorielRivalet/mhfz-overlay/issues/373) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
