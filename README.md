@@ -78,13 +78,13 @@ JavaScript        31 hrs 31 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>-->
  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#34](https://github.com/sharu725/youtube-embed/issues/34) in [sharu725/youtube-embed](https://github.com/sharu725/youtube-embed)
-2. ❗ Opened issue [#698](https://github.com/DorielRivalet/wycademy/issues/698) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-3. 🎉 Merged PR [#697](https://github.com/DorielRivalet/wycademy/pull/697) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-4. ❗ Opened issue [#696](https://github.com/DorielRivalet/wycademy/issues/696) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-5. ❗ Opened issue [#695](https://github.com/DorielRivalet/wycademy/issues/695) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-6. ❗ Opened issue [#694](https://github.com/DorielRivalet/wycademy/issues/694) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-7. ❗ Opened issue [#693](https://github.com/DorielRivalet/wycademy/issues/693) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+1. 🗣 Commented on [#34](https://github.com/sharu725/youtube-embed/issues/34#issuecomment-2526496102) in [sharu725/youtube-embed](https://github.com/sharu725/youtube-embed)
+2. 🔒 Closed issue [#34](https://github.com/sharu725/youtube-embed/issues/34) in [sharu725/youtube-embed](https://github.com/sharu725/youtube-embed)
+3. 🎉 Merged PR [#758](https://github.com/DorielRivalet/wycademy/pull/758) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+4. 🎉 Merged PR [#761](https://github.com/DorielRivalet/wycademy/pull/761) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+5. 🎉 Merged PR [#760](https://github.com/DorielRivalet/wycademy/pull/760) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+6. 🎉 Merged PR [#759](https://github.com/DorielRivalet/wycademy/pull/759) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+7. 🎉 Merged PR [#757](https://github.com/DorielRivalet/wycademy/pull/757) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
