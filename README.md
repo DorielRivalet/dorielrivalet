@@ -78,13 +78,13 @@ JavaScript        31 hrs 45 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>-->
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#400](https://github.com/DorielRivalet/mhfz-overlay/issues/400#issuecomment-2536989500) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-2. 🗣 Commented on [#401](https://github.com/DorielRivalet/mhfz-overlay/issues/401#issuecomment-2536980023) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-3. 🗣 Commented on [#34](https://github.com/sharu725/youtube-embed/issues/34#issuecomment-2526496102) in [sharu725/youtube-embed](https://github.com/sharu725/youtube-embed)
-4. 🔒 Closed issue [#34](https://github.com/sharu725/youtube-embed/issues/34) in [sharu725/youtube-embed](https://github.com/sharu725/youtube-embed)
-5. 🎉 Merged PR [#758](https://github.com/DorielRivalet/wycademy/pull/758) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-6. 🎉 Merged PR [#761](https://github.com/DorielRivalet/wycademy/pull/761) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-7. 🎉 Merged PR [#760](https://github.com/DorielRivalet/wycademy/pull/760) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+1. ❗ Opened issue [#798](https://github.com/DorielRivalet/wycademy/issues/798) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+2. 🎉 Merged PR [#773](https://github.com/DorielRivalet/wycademy/pull/773) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+3. 💪 Opened PR [#773](https://github.com/DorielRivalet/wycademy/pull/773) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+4. 🗣 Commented on [#400](https://github.com/DorielRivalet/mhfz-overlay/issues/400#issuecomment-2536989500) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+5. 🗣 Commented on [#401](https://github.com/DorielRivalet/mhfz-overlay/issues/401#issuecomment-2536980023) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+6. 🗣 Commented on [#34](https://github.com/sharu725/youtube-embed/issues/34#issuecomment-2526496102) in [sharu725/youtube-embed](https://github.com/sharu725/youtube-embed)
+7. 🔒 Closed issue [#34](https://github.com/sharu725/youtube-embed/issues/34) in [sharu725/youtube-embed](https://github.com/sharu725/youtube-embed)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
