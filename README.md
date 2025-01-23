@@ -78,13 +78,13 @@ Markdown      23 hrs 39 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>-->
  
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#504](https://github.com/DorielRivalet/wycademy/issues/504) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-2. ❗ Opened issue [#822](https://github.com/DorielRivalet/wycademy/issues/822) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-3. ❗ Opened issue [#821](https://github.com/DorielRivalet/wycademy/issues/821) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-4. ❗ Opened issue [#402](https://github.com/DorielRivalet/mhfz-overlay/issues/402) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
-5. ❗ Opened issue [#798](https://github.com/DorielRivalet/wycademy/issues/798) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-6. 🎉 Merged PR [#773](https://github.com/DorielRivalet/wycademy/pull/773) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-7. 💪 Opened PR [#773](https://github.com/DorielRivalet/wycademy/pull/773) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+1. ❗ Opened issue [#890](https://github.com/DorielRivalet/wycademy/issues/890) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+2. ❗ Opened issue [#889](https://github.com/DorielRivalet/wycademy/issues/889) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+3. ❗ Opened issue [#888](https://github.com/DorielRivalet/wycademy/issues/888) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+4. ❗ Opened issue [#887](https://github.com/DorielRivalet/wycademy/issues/887) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+5. ❗ Opened issue [#886](https://github.com/DorielRivalet/wycademy/issues/886) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+6. 🔒 Closed issue [#504](https://github.com/DorielRivalet/wycademy/issues/504) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+7. ❗ Opened issue [#822](https://github.com/DorielRivalet/wycademy/issues/822) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
