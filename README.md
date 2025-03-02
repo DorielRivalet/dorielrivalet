@@ -78,8 +78,8 @@ C#            16 hrs 27 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>-->
  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#967](https://github.com/DorielRivalet/wycademy/issues/967) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-2. ❗ Opened issue [#889](https://github.com/DorielRivalet/wycademy/issues/889) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+1. ❗ Opened issue [#979](https://github.com/DorielRivalet/wycademy/issues/979) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+2. ❗ Opened issue [#967](https://github.com/DorielRivalet/wycademy/issues/967) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
 3. ❗ Opened issue [#888](https://github.com/DorielRivalet/wycademy/issues/888) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
 4. ❗ Opened issue [#887](https://github.com/DorielRivalet/wycademy/issues/887) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
 5. ❗ Opened issue [#886](https://github.com/DorielRivalet/wycademy/issues/886) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
