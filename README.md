@@ -2,12 +2,12 @@
 doriel@rivalet:~$ readmefetch
                    -`                       doriel@rivalet
                   .o+`                      -------------- 
-                 `ooo/                      Host: LENOVO ThinkPad L15 Gen 2
-                `+oooo:                     OS: Arch Linux x86_64 
+                 `ooo/                      Host: LENOVO ThinkPad
+                `+oooo:                     OS: Arch Linux x86_64
                `+oooooo:                    Shell: fish (Tide, Fisher, Catppucin-Mocha)
-               -+oooooo+:                   Packages: 2065 (pacman)
-             `/:-:++oooo+:                  Resolution: 1360x768, 1360x768, 1360x768
-            `/++++/+++++++:                 Mouse Cursor: Catppuccin-Mocha-Dark 
+               -+oooooo+:                   Notes: Obsidian (Catppuccin theme)
+             `/:-:++oooo+:                  Compositor: picom
+            `/++++/+++++++:                 Editor: neovim 
            `/++++++++++++++:                Terminal: kitty
           `/+++ooooooooooooo/`              Kitty Terminal Font: MesloLGS NF 
          ./ooosssso++osssssso+`             Multiplexer: tmux
@@ -16,9 +16,9 @@ doriel@rivalet:~$ readmefetch
       :osssssss/        osssso+++.          File Manager: ranger
      /ossssssss/        +ssssooo/-          App Launcher: rofi
    `/ossssso+/:-        -:/+osssso+-        Document Viewer: zathura
-  `+sso+:-`                 `.-/+oso:       Compositor: picom
- `++:.                           `-/+/      Notes: Obsidian (Catppuccin theme)
- .`                                 `       Editor: neovim
+  `+sso+:-`                 `.-/+oso:       
+ `++:.                           `-/+/      
+ .`                                 `       
 ```
 
 | <img width="100%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Programming%20Languages&fontFamily=Source%20Code%20Pro&lineCount=3&theme=catppuccin_mocha&titleColor=%23f5e0dc&line1=lua,lua,2C2D72;ruby,ruby,CC342D;javascript,javascript,F7DF1E;csharp,C%%23,239120;&line2=python,python,auto;oracle,java,F80000;cplusplus,c%2b%2b,00599C;php,php,auto;&line3=autohotkey,autohotkey,334455;typescript,typescript,;"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          	| <img width="100%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=IDE%20%7C%20Editors&fontFamily=Source%20Code%20Pro&lineCount=3&theme=catppuccin_mocha&titleColor=%2394e2d5&line1=neovim,neovim,auto;visualstudiocode,visual%20studio%20code,007ACC;visualstudio,visual%20studio,5C2D91;&line2=vim,vim,019733;eclipseide,eclipse,2C2255;notepadplusplus,notepad%2b%2b,90E59A;codepen,codepen,cdd6f4;&line3=replit,replit,F26207;apachenetbeanside,apache%20netbeans%20ide,1B6AC6;"/>                	|
@@ -32,19 +32,13 @@ doriel@rivalet:~$ readmefetch
 | <img width="100%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Hex%20Editor&fontFamily=Source%20Code%20Pro&lineCount=1&theme=catppuccin_mocha&titleColor=%23f9e2af&line1=zeroonezeroeditor,010editor,cdd6f4;imhex,imhex,cdd6f4;hxd,hxd,cdd6f4;"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           	| <img width="100%"  src="https://github-readme-tech-stack.vercel.app/api/cards?title=Video%20Editing%20%7C%20Recording&fontFamily=Source%20Code%20Pro&lineCount=1&theme=catppuccin_mocha&titleColor=%23a6adc8&line1=obsstudio,obs%20studio,cdd6f4;shotcut,shotcut,115C77;"/>                                                                                                                                                                                                                                            	|
 | <img width="100%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Music&fontFamily=Source%20Code%20Pro&lineCount=2&theme=catppuccin_mocha&titleColor=%23a6e3a1&line1=winamp,winamp,F93821;musescore,musescore,1A70B8;midi,midi,cdd6f4;discogs,discogs,cdd6f4;&line2=musicbrainz,musicbrainz,BA478F;foobar2000,foobar2000,;"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                	| <img width="100%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Other&fontFamily=Source%20Code%20Pro&lineCount=2&theme=catppuccin_mocha&titleColor=%239399b2&line1=rainmeter,rainmeter,19519B;obsidian,obsidian,483699;ifttt,ifttt,cdd6f4;wolfram,wolfram,DD1100;&line2=tampermonkey,tampermonkey,00485B;"/>                                                                                                                                                                                       	|
 
-## 💡 Hobbies, Interests & Favourites
+## 💡 Interests
 
 <details>
   <summary>Click here to expand</summary>
-  <h3>Favourites</h3>
-  Programming Language: Lua<br>
-  Operating System: Arch Linux<br>
-  Color Theme: Catppuccin Mocha<br>
-  Text Editor: Neovim<br>
-  Terminal: kitty<br>
-  Command line shell: Fish<br>
-  <h3>Hobbies & Interests</h3>
-  Fencing & Historical Swords, Nature, Drawing, Worldbuilding, Videogame modding, Conlangs, Chess, Manga/Anime, Sudoku, Speedrunning, Retro gaming, Lockpick puzzles, Reverse engineering, Categorization and pattern recognition, Touhou Doujin Music (Eurobeat, Rock, Folk, Trance, Bossa Nova, J-Pop, Jazz, Classical, House, Nu-Disco, Electro Swing), Buckethead
+🎮 Gaming: Retro, Speedrunning, Modding<br>
+🎼 Music: Touhou Doujin (various genres), Buckethead<br>
+📚 Hobbies: Chess, Reverse Engineering<br>
 </details>
 
 ## 📈 Statistics
