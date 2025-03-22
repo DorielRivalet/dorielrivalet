@@ -72,13 +72,13 @@ C#                16 hrs 27 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>-->
  
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1038](https://github.com/DorielRivalet/wycademy/issues/1038) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-2. ❌ Closed PR [#1053](https://github.com/DorielRivalet/wycademy/pull/1053) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-3. ❌ Closed PR [#1052](https://github.com/DorielRivalet/wycademy/pull/1052) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-4. ❌ Closed PR [#1051](https://github.com/DorielRivalet/wycademy/pull/1051) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-5. ❌ Closed PR [#1050](https://github.com/DorielRivalet/wycademy/pull/1050) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-6. ❌ Closed PR [#1049](https://github.com/DorielRivalet/wycademy/pull/1049) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
-7. ❌ Closed PR [#947](https://github.com/DorielRivalet/wycademy/pull/947) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+1. 🗣 Commented on [#401](https://github.com/DorielRivalet/mhfz-overlay/issues/401#issuecomment-2744221928) in [DorielRivalet/mhfz-overlay](https://github.com/DorielRivalet/mhfz-overlay)
+2. 🔒 Closed issue [#1038](https://github.com/DorielRivalet/wycademy/issues/1038) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+3. ❌ Closed PR [#1053](https://github.com/DorielRivalet/wycademy/pull/1053) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+4. ❌ Closed PR [#1052](https://github.com/DorielRivalet/wycademy/pull/1052) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+5. ❌ Closed PR [#1051](https://github.com/DorielRivalet/wycademy/pull/1051) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+6. ❌ Closed PR [#1050](https://github.com/DorielRivalet/wycademy/pull/1050) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
+7. ❌ Closed PR [#1049](https://github.com/DorielRivalet/wycademy/pull/1049) in [DorielRivalet/wycademy](https://github.com/DorielRivalet/wycademy)
 <!--END_SECTION:activity-->
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dorielrivalet&&style=flat-square)
