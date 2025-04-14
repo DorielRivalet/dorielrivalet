@@ -53,14 +53,14 @@ doriel@rivalet:~$ readmefetch
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2024 - To: 12 April 2025
+From: 13 April 2024 - To: 13 April 2025
 
-Total Time: 1,115 hrs 7 mins
+Total Time: 1,119 hrs 51 mins
 
-Svelte                             715 hrs 32 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.99 %
-TypeScript                         231 hrs 7 mins  ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.67 %
-Markdown                           49 hrs 3 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.39 %
-C#                                 36 hrs 1 min    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.22 %
+Svelte                             716 hrs 4 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.77 %
+TypeScript                         231 hrs 7 mins  ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.58 %
+Markdown                           50 hrs 18 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.48 %
+C#                                 37 hrs 30 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.34 %
 JSON                               14 hrs 54 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.33 %
 ```
 
